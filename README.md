@@ -7,7 +7,7 @@
 
 - 🔭 Aquisição e medição de objetos astronômicos de forma automatizada [AQObject](https://github.com/edison-ps/AQObject)
 
-- 🔭 Scripts em Python [Python Scripts](https://github.com/edison-ps/Python-Scripts)
+- 🔭 Scripts [Python Scripts](https://github.com/edison-ps/Python-Scripts)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
