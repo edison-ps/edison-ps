@@ -1,7 +1,7 @@
 <h1 align="center">Oi, sou o Edisonps</h1>
 <h3 align="center">Desenvolvimento back-end e astronomia</h3>
 
-- 🔭 Atualmente estou trabalhando em uma api para processar dados fotométricos coletados pelo AQObjects [Photometric API](https://github.com/edison-ps/photometric-api)
+- 🔭 Atualmente estou trabalhando em uma api para processar dados fotométricos coletados pelo AQObject [Photometric API](https://github.com/edison-ps/photometric-api)
 
 - 🔭 Aquisição e medição de objetos astronômicos de forma automatizada [AQObject](https://github.com/edison-ps/AQObject)
 
