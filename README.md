@@ -14,6 +14,7 @@ Tenho como hobby a astronomia amadora e foi através dela que redescobri a minha
 
 - 🔭 Scripts [Python Scripts](https://github.com/edison-ps/Python-Scripts)
 
+:partly_sunny:
 
 
 <h2 align="left">Connect with me:</h2>
