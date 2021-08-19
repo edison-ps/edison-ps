@@ -2,7 +2,7 @@
 <h1 align="left">Seja bem-vindo(a) ao meu repositório</h1>
 <h3 align="left">Desenvolvimento back-end e astronomia</h3>
 
-Iniciei a minha carreira de desenvolvedor utilizando a linguagem Cobol e C, mas depois 15 anos desenvolvendo decidi ir atrás de um sonho que era trabalhar com animação 3d  e foi algo que me trouxa muita felicidade e realizações. Mesmo em outra área a programação sempre esteve presente pois utilizava para criação de scripts para automatizar e simplificar os processos. 
+Iniciei a minha carreira de desenvolvedor utilizando a linguagem Cobol e C, mas depois 15 anos desenvolvendo decidi ir atrás de um sonho que era trabalhar com animação 3d  e foi algo que me trouxe muita felicidade e realizações. Mesmo em outra área a programação sempre esteve presente pois utilizava para criação de scripts para automatizar e simplificar os processos. 
 
 Sou formado em automação industrial e decidi fazer esse curso porque engloba o desenvolvimento de software e hardware.  Curto muito ter diferentes tipos de equipamentos conversando entre si.
 
