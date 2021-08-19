@@ -8,15 +8,15 @@ Sou formado em automação industrial e decidi fazer esse curso porque engloba o
 
 Tenho como hobby a astronomia amadora e foi através dela que redescobri a minha paixão pela programação e aqui no meu Github você poderá conhecer alguns projetos que venho elaborando nos meus momentos livres.
 
-- 🔭 Aquisição e medição de objetos astronômicos de forma automatizada [AQObject](https://github.com/edison-ps/AQObject)
+- 🔭 Aquisição e medição de objetos astronômicos de forma automatizada [AQObject - ](https://github.com/edison-ps/AQObject)
 
 - :milky_way: Atualmente estou trabalhando em uma api para processar dados fotométricos coletados pelo AQObject [Photometric API](https://github.com/edison-ps/photometric-api)
 
-- 🔭 Scripts [Python Scripts](https://github.com/edison-ps/Python-Scripts)
+- 🔭 Scripts [Python Scripts - ](https://github.com/edison-ps/Python-Scripts)
 
-- :partly_sunny: Scripts [Estação Meteorológica](https://github.com/edison-ps/Estacao-Meteorologica)
+- :partly_sunny: Scripts [Estação Meteorológica - ](https://github.com/edison-ps/Estacao-Meteorologica)
 
-- :computer: Scripts [Sistemas em Cobol](https://github.com/edison-ps/Cobol)
+- :computer: Scripts [Sistemas em Cobol - ](https://github.com/edison-ps/Cobol)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
