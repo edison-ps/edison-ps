@@ -10,12 +10,13 @@ Tenho como hobby a astronomia amadora e foi através dela que redescobri a minha
 
 - 🔭 Aquisição e medição de objetos astronômicos de forma automatizada [AQObject](https://github.com/edison-ps/AQObject)
 
-- 🔭 Atualmente estou trabalhando em uma api para processar dados fotométricos coletados pelo AQObject [Photometric API](https://github.com/edison-ps/photometric-api)
+- :milky_way: Atualmente estou trabalhando em uma api para processar dados fotométricos coletados pelo AQObject [Photometric API](https://github.com/edison-ps/photometric-api)
 
 - 🔭 Scripts [Python Scripts](https://github.com/edison-ps/Python-Scripts)
 
-:partly_sunny:
+- :partly_sunny: Scripts [Estação Meteorológica](https://github.com/edison-ps/Estacao-Meteorologica)
 
+- :computer: Scripts [Sistemas em Cobol](https://github.com/edison-ps/Cobol)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
