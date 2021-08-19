@@ -1,12 +1,20 @@
 
 <h1 align="left">Seja bem-vindo(a) ao meu repositório</h1>
-<h3 align="center">Desenvolvimento back-end e astronomia</h3>
+<h3 align="left">Desenvolvimento back-end e astronomia</h3>
 
-- 🔭 Atualmente estou trabalhando em uma api para processar dados fotométricos coletados pelo AQObject [Photometric API](https://github.com/edison-ps/photometric-api)
+Iniciei a minha carreira de desenvolvedor utilizando a linguagem Cobol e C, mas depois 15 anos desenvolvendo decidi ir atrás de um sonho que era trabalhar com animação 3d  e foi algo que me trouxa muita felicidade e realizações. Mesmo em outra área a programação sempre esteve presente pois utilizava para criação de scripts para automatizar e simplificar os processos. 
+
+Sou formado em automação industrial e decidi fazer esse curso porque engloba o desenvolvimento de software e hardware.  Curto muito ter diferentes tipos de equipamentos conversando entre si.
+
+Tenho como hobby a astronomia amadora e foi através dela que redescobri a minha paixão pela programação e aqui no meu Github você poderá conhecer alguns projetos que venho elaborando nos meus momentos livres.
 
 - 🔭 Aquisição e medição de objetos astronômicos de forma automatizada [AQObject](https://github.com/edison-ps/AQObject)
 
+- 🔭 Atualmente estou trabalhando em uma api para processar dados fotométricos coletados pelo AQObject [Photometric API](https://github.com/edison-ps/photometric-api)
+
 - 🔭 Scripts [Python Scripts](https://github.com/edison-ps/Python-Scripts)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
