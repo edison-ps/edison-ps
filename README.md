@@ -1,6 +1,5 @@
-<h3 align="left">Página em reformulação</h3>
 
-<h1 align="center">Oi, sou o Edison</h1>
+<h1 align="left">Seja bem-vindo(a) ao meu repositório</h1>
 <h3 align="center">Desenvolvimento back-end e astronomia</h3>
 
 - 🔭 Atualmente estou trabalhando em uma api para processar dados fotométricos coletados pelo AQObject [Photometric API](https://github.com/edison-ps/photometric-api)
