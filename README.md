@@ -16,7 +16,7 @@ Tenho como hobby a astronomia amadora e foi através dela que redescobri a minha
 
 - :partly_sunny: Software & Hardware [Estação Meteorológica  ](https://github.com/edison-ps/Estacao-Meteorologica)
 
-- :computer: Sistemas [Sistemas em Cobol  ](https://github.com/edison-ps/Cobol)
+- :computer: Cobol [Sistemas em Cobol  ](https://github.com/edison-ps/Cobol)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
